@@ -18,7 +18,7 @@ git clone https://github.com/felpaswo/crud-login-user.git
 ```
 ### Navegue até o diretório do projeto.
 ```bash
-cd dog-vue-project
+cd crud-login-user
 ```
 ### Instale as dependências.
 ```bash
