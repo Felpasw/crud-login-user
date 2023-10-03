@@ -1,35 +1,31 @@
-# vue-project
+# Projeto de Treinamento em Vue - Softwaresul 💻
+Este projeto foi desenvolvido como parte de um treinamento em Vue na empresa Softwaresul. O principal objetivo foi proporcionar aos desenvolvedores uma experiência prática e hands-on no framework Vue.js.
 
-This template should help get you started developing with Vue 3 in Vite.
+# Visão Geral 🎈
+O projeto utiliza a API reservada com login e controle por meio de cookies no navegador, o usuário com permissões no sistema consegue adicionar, deletar e editar outros usuários no sistema. Todo o código foi desenvolvido puramente em Vue.js, demonstrando o poder e a flexibilidade deste framework para a construção de interfaces de usuário modernas.
+ 
+# Recursos Principais ⚙
+- Treinamento em Vue: O projeto serve como uma plataforma prática para o treinamento em Vue, abrangendo conceitos fundamentais e avançados do framework.
 
-## Recommended IDE Setup
+- Integração: A aplicação consome uma API reservada, com login e CRUD de usuários.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Desenvolvimento Puramente em Vue: Todo o código-fonte do projeto é desenvolvido utilizando exclusivamente o framework Vue.js, destacando as capacidades do Vue para a construção de aplicações front-end eficientes e elegantes.
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+# Como Executar o Projeto 📥
+### Clone este repositório para a sua máquina local.
+```bash
+git clone https://github.com/felpaswo/crud-login-user.git
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+### Navegue até o diretório do projeto.
+```bash
+cd dog-vue-project
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+### Instale as dependências.
+```bash
+npm i 
 ```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
+### Inicie a aplicação..
+```bash
+npm run dev 
 ```
+A aplicação estará disponível em `http://localhost:5173`.
