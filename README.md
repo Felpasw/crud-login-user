@@ -9,7 +9,7 @@ O projeto utiliza a API reservada com login e controle por meio de cookies no na
 
 - Integração: A aplicação consome uma API reservada, com login e CRUD de usuários.
 
-- Desenvolvimento Puramente em Vue: Todo o código-fonte do projeto é desenvolvido utilizando exclusivamente o framework Vue.js, destacando as capacidades do Vue para a construção de aplicações front-end eficientes e elegantes.
+- Desenvolvimento Puramente em Vue: Todo o código-fonte do projeto é desenvolvido utilizando exclusivamente os frameworks Vue.js e Vuesax, destacando as capacidades destes frameworks para a construção de aplicações front-end eficientes e elegantes.
 
 # Como Executar o Projeto 📥
 ### Clone este repositório para a sua máquina local.
